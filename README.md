@@ -1,5 +1,27 @@
 # LILLY STORE SALES ANALYSIS
 
+### Analysis structure:
+
+│
+├── README.md
+│
+├── data/
+│   └── Sales_Cleaned.xlsx
+│
+├── dashboard/
+│   └── Lilly_Store_Dashboard.xlsx
+│
+├── images/
+│   └── lilly-store-dashboard.png
+│
+├── documentation/
+│   ├── data-cleaning.md
+│   ├── analysis-methodology.md
+│   └── business-insights.md
+│
+└── presentation/
+    └── Lilly_Store_Sales_Analysis.pdf
+
 ### Project Overview
 The Lily Store sales report provides an overview of the store’s sales performance, customer behavior, order status, payment methods, product categories, regions, age groups, gender distribution, coupon usage, and payment channels.
 
@@ -75,7 +97,9 @@ Based on the analysis, Lilly Store should:
 7. Improve customer experience to maintain or increase the current 4.04 average rating.
 8. Monitor the relationship between payment method, order status, returns, and cancellations to identify potential operational problems.
 
+### Limitations 
 
+None
 
 
 
