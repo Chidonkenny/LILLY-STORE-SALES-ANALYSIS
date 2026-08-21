@@ -11,7 +11,29 @@
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 
+## Repository Structure
 
+structure:
+lilly-store-sales-analysis/
+│
+├── README.md
+│
+├── data/
+│   └── Sales_Cleaned.xlsx
+│
+├── dashboard/
+│   └── Lilly_Store_Dashboard.xlsx
+│
+├── images/
+│   └── lilly-store-dashboard.png
+│
+├── documentation/
+│   ├── data-cleaning.md
+│   ├── analysis-methodology.md
+│   └── business-insights.md
+│
+└── presentation/
+    └── Lilly_Store_Sales_Analysis.pdf
 
 
 ### Project Overview
