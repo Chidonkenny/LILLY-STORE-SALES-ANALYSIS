@@ -3,6 +3,10 @@
 ## Table of Content
 
 - [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Ckeaning Steps](#data-cleaning-steps)
+- [Exploratory Data analysis (EDA)](#exploratory-data-analysis-(eda))
 
 ### Project Overview
 The Lily Store sales report provides an overview of the store’s sales performance, customer behavior, order status, payment methods, product categories, regions, age groups, gender distribution, coupon usage, and payment channels.
