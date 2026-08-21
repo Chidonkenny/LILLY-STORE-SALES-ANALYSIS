@@ -12,7 +12,9 @@ Used for: Analysing sales, customers, regions, products, payments, and order sta
 
 Preparation: The data was cleaned and organised in Excel before analysis.
 
-Tools: Microsoft Excel, Power query, PivotTables, PivotCharts, Excel Formular, Dashboard, github.
+###Tools: 
+
+Microsoft Excel, Power query, PivotTables, PivotCharts, Excel Formular, Dashboard, github.
 
 Data availability: The dataset was provided by lilly store to help understand their sales performance.
 
