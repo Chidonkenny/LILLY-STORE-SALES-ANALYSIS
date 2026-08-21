@@ -13,10 +13,12 @@
 
 ## Repository Structure
 
-structure:
 lilly-store-sales-analysis/
+
 │
+
 ├── README.md
+
 │
 ├── data/
 │   └── Sales_Cleaned.xlsx
