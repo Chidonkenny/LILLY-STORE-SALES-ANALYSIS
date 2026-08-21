@@ -38,10 +38,14 @@ The sales dataset was explored to understand its structure, identify data-qualit
 
 ### Data Analysis 
 
+Total Revenue Generated 
+
 ~~~Excel 
-=sum(totalsales)
+=sum(sales[totalsales])
 ~~~
 
+Cancelled Order
+=countif(sales[region],"Anambra", sales[product_category],"electronics")
 
 
 
