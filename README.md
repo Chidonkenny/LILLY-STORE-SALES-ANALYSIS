@@ -62,3 +62,21 @@ The store generated a total revenue of ₦4,299,449.11 from 15,120 orders, with 
 - Orders Completed  3,035
 
 
+### Recommendations 
+
+Based on the analysis, Lilly Store should:
+
+1. Reduce order cancellations and returns by investigating common causes such as product quality, delivery delays, incorrect orders, and customer expectations.
+2. Strengthen online sales, since online transactions generate the highest revenue among the payment channels.
+3. Target customers aged 26–55 with personalized promotions, loyalty programs, and product recommendations.
+4. Maintain and expand high-performing categories, particularly Clothing, Household, Sports, and Automotive.
+5. Review regional performance** and develop targeted marketing campaigns for lower-performing regions.
+6. Evaluate coupon effectiveness by comparing revenue, order frequency, and profitability between coupon and non-coupon orders.
+7. Improve customer experience to maintain or increase the current 4.04 average rating.
+8. Monitor the relationship between payment method, order status, returns, and cancellations to identify potential operational problems.
+
+
+
+
+
+
