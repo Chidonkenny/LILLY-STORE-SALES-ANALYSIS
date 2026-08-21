@@ -246,12 +246,10 @@ lilly-store-sales-analysis/
     ├── data/
     │   └── Sales_Cleaned.xlsx
     │
-    ├── dashboard/
-    │   └── Pivot.png
-    │
-    ├── images/
-    │   └── Dashboard Overview.png
-    │
+    ├── Dashboard Overview.png
+    │   
+    ├── Pivots.png
+    │     
     ├    ── documentation/
     │   ├── data-cleaning.md
     │   ├── analysis-methodology.md
