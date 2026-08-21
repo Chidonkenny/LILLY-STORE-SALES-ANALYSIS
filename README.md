@@ -15,6 +15,12 @@
 ### Project Overview
 The Lily Store sales report provides an overview of the store’s sales performance, customer behavior, order status, payment methods, product categories, regions, age groups, gender distribution, coupon usage, and payment channels.
 
+<img width="1599" height="826" alt="Screenshot 2026-08-21 133500" src="https://github.com/user-attachments/assets/91dcb800-7ed6-40b0-b425-e869c765d592" />
+
+<img width="1596" height="829" alt="Screenshot 2026-08-21 132832" src="https://github.com/user-attachments/assets/895dae4c-6b5e-48e3-bfa5-7ee9efeffe7f" />
+
+<img width="1598" height="899" alt="Screenshot 2026-08-19 013052" src="https://github.com/user-attachments/assets/269a1d77-f97e-45c4-bfbb-c11d016dc07f" />
+
 ### Data Source 
 Lilly Store sales data: format ".csv" file containing detailed information about the sales made from lilly store.
 
