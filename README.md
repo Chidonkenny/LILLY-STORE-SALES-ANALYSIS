@@ -10,7 +10,6 @@ Type: Retail sales and customer transaction data
 
 Used for: Analysing sales, customers, regions, products, payments, and order status.
 
-Preparation: The data was cleaned and organised in Excel before analysis.
 
 ### Tools: 
 
