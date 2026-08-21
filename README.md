@@ -47,5 +47,18 @@ Total Revenue Generated
 =countif(sales[product_category],sales[order_status],"cancelled")
 ~~~
 
+### Findings
+
+The store generated a total revenue of ₦4,299,449.11 from 15,120 orders, with an average customer rating of 4.04. Overall, the dashboard indicates a relatively strong and diversified sales performance, although the high number of returned and cancelled orders requires management attention.
+
+#### Key Performance Indicators
+
+- Total Revenue     ₦4,299,449.11 
+- Revenue Generated  ₦4,299,449.11
+- Total Orders   15,120
+- Average Rating    4.04 / 5
+- Orders Returned   2,994
+- Orders Cancelled  2,976
+- Orders Completed  3,035
 
 
