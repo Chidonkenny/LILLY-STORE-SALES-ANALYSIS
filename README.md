@@ -36,7 +36,7 @@ Data availability: The dataset was provided by lilly store to help understand th
 
 The sales dataset was explored to understand its structure, identify data-quality issues, and discover patterns in revenue, orders, customers, products, regions, payment methods, and order status before developing the final dashboard.
 
-
+### Data Analysis 
 
 
 
