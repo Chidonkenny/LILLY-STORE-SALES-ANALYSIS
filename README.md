@@ -123,15 +123,15 @@ Oyo and Abuja appear to be among the stronger regions in terms of order volume/r
 
 Revenue is relatively well distributed across the five payment methods:
 
-Card: ₦907,643.56 — highest contribution.
+- Card: ₦907,643.56 — highest contribution.
 
-Mobile Money: ₦857,649.23.
+- Mobile Money: ₦857,649.23.
 
-Pay on Delivery: ₦850,521.71.
+- Pay on Delivery: ₦850,521.71.
 
-Cash: ₦844,610.74.
+- Cash: ₦844,610.74.
 
-Bank Transfer: ₦839,023.87.
+- Bank Transfer: ₦839,023.87.
 
 
 Card payments generated the highest revenue, while bank transfers generated the lowest among the five methods. The relatively balanced distribution indicates that customers use a variety of payment options.
@@ -147,17 +147,17 @@ while the 26–35 group contributes approximately ₦952,650.
 
 ### Revenue declines significantly among older customers:
 
-36–45: approximately ₦1.33 million
+- 36–45: approximately ₦1.33 million
 
-46–55: approximately ₦1.25 million
+- 46–55: approximately ₦1.25 million
 
-26–35: approximately ₦952,650
+- 26–35: approximately ₦952,650
 
-56–65: approximately ₦605,888
+- 56–65: approximately ₦605,888
 
-66–75: approximately ₦123,367
+- 66–75: approximately ₦123,367
 
-76–85: approximately ₦41,184
+- 76–85: approximately ₦41,184
 
 This suggests that marketing efforts should particularly target customers aged 26–55, especially the 36–55 segment.
 
@@ -194,11 +194,11 @@ This indicates that coupon promotions are being used by roughly half of the orde
 
 The customer/order distribution by gender shows:
 
-Non-binary: approximately 5,150
+- Non-binary: approximately 5,150
 
-Female: approximately 5,050
+- Female: approximately 5,050
 
-Male: approximately 4,900
+- Male: approximately 4,900
 
 The distribution is relatively balanced, with the non-binary category having the highest count and the male category having the lowest.
 
