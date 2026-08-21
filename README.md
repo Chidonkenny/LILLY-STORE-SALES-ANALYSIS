@@ -31,3 +31,15 @@ Data availability: The dataset was provided by lilly store to help understand th
 - Verified numerical fields such as sales/revenue.
 - Converted relevant columns into appropriate data types.
 - Created a cleaned dataset for analysis.
+
+### Exploratory Data analysis (EDA)
+
+The sales dataset was explored to understand its structure, identify data-quality issues, and discover patterns in revenue, orders, customers, products, regions, payment methods, and order status before developing the final dashboard.
+
+
+
+
+
+
+
+
