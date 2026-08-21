@@ -15,26 +15,24 @@
 
 lilly-store-sales-analysis/
 
-│
-
-├── README.md
-
-│
-├── data/
-│   └── Sales_Cleaned.xlsx
-│
-├── dashboard/
-│   └── Lilly_Store_Dashboard.xlsx
-│
-├── images/
-│   └── lilly-store-dashboard.png
-│
-├── documentation/
-│   ├── data-cleaning.md
-│   ├── analysis-methodology.md
-│   └── business-insights.md
-│
-└── presentation/
+    │
+    ├── README.md
+    │
+    ├── data/
+    │   └── Sales_Cleaned.xlsx
+    │
+    ├── dashboard/
+    │   └── Lilly_Store_Dashboard.xlsx
+    │
+    ├── images/
+    │   └── lilly-store-dashboard.png
+    │
+    ├    ── documentation/
+    │   ├── data-cleaning.md
+    │   ├── analysis-methodology.md
+    │   └── business-insights.md
+    │
+    └── presentation/
     └── Lilly_Store_Sales_Analysis.pdf
 
 
@@ -87,7 +85,7 @@ The sales dataset was explored to understand its structure, identify data-qualit
 =countif(cleaned_sales[orderstatus],"cancelled")
 ~~~
 
-- Total Order Complete
+- Total Order Completed
   
 ~~~Completed Order
 =countif(sale_cleaned[orderstatus],"completed")
@@ -96,7 +94,7 @@ The sales dataset was explored to understand its structure, identify data-qualit
 - Total Order Returned
   
 ~~~returned Order
-=countif(sale_cleaned[orderstatus],"completed")
+=countif(sale_cleaned[orderstatus],"returned")
 ~~~
 
 ### Findings
