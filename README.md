@@ -22,7 +22,7 @@ Data availability: The dataset was provided by lilly store to help understand th
 - Inspected the available columns and records.
 - Checked for missing values.
 - Checked for duplicate records.
-- Standardized category names.
+- corrected inconsistent formating in product category names.
 - Checked order status values.
 - Checked payment method values.
 - Checked customer demographic fields.
