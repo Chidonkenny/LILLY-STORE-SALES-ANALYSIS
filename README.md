@@ -84,7 +84,19 @@ The sales dataset was explored to understand its structure, identify data-qualit
 - Total Order cancelled 
 
 ~~~Cancelled Order
-=countif(sales[product_category],sales[order_status],"cancelled")
+=countif(cleaned_sales[orderstatus],"cancelled")
+~~~
+
+- Total Order Complete
+  
+~~~Completed Order
+=countif(sale_cleaned[orderstatus],"completed")
+~~~
+
+- Total Order Returned
+  
+~~~returned Order
+=countif(sale_cleaned[orderstatus],"completed")
 ~~~
 
 ### Findings
