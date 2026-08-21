@@ -45,7 +45,7 @@ Total Revenue Generated
 ~~~
 
 Cancelled Order
-=countif(sales[region],"Anambra", sales[product_category],"electronics")
+~~~=countif(sales[region],"Anambra", sales[product_category],"electronics")~~~
 
 
 
