@@ -38,7 +38,9 @@ The sales dataset was explored to understand its structure, identify data-qualit
 
 ### Data Analysis 
 
-
+~~~Excel 
+=sum(totalsales)
+~~~
 
 
 
