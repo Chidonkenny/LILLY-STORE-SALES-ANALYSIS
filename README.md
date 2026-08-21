@@ -6,34 +6,10 @@
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning Steps](#data-cleaning-steps)
-- [Exploratory Data analysis (EDA)](#exploratory-data-analysis-(eda))
+- [Exploratory Data analysis (EDA)](#exploratory-data-analysis-eda)
 - [Excel Formular](#excel-formular)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
-
-## Repository Structure
-
-lilly-store-sales-analysis/
-
-    │
-    ├── README.md
-    │
-    ├── data/
-    │   └── Sales_Cleaned.xlsx
-    │
-    ├── dashboard/
-    │   └── Lilly_Store_Dashboard.xlsx
-    │
-    ├── images/
-    │   └── lilly-store-dashboard.png
-    │
-    ├    ── documentation/
-    │   ├── data-cleaning.md
-    │   ├── analysis-methodology.md
-    │   └── business-insights.md
-    │
-    └── presentation/
-    └── Lilly_Store_Sales_Analysis.pdf
 
 
 ### Project Overview
@@ -128,6 +104,30 @@ Based on the analysis, Lilly Store should:
 ### Limitations 
 
 None
+
+## Repository Structure
+
+lilly-store-sales-analysis/
+
+    │
+    ├── README.md
+    │
+    ├── data/
+    │   └── Sales_Cleaned.xlsx
+    │
+    ├── dashboard/
+    │   └── Lilly_Store_Dashboard.xlsx
+    │
+    ├── images/
+    │   └── lilly-store-dashboard.png
+    │
+    ├    ── documentation/
+    │   ├── data-cleaning.md
+    │   ├── analysis-methodology.md
+    │   └── business-insights.md
+    │
+    └── presentation/
+    └── Lilly_Store_Sales_Analysis.pdf
 
 
 
