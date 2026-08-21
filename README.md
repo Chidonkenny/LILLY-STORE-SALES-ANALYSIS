@@ -5,8 +5,13 @@ The Lily Store sales report provides an overview of the store’s sales performa
 
 ### Data Source 
 Lilly Store sales data: format ".csv" file containing detailed information about the sales made from lilly store.
+
 Type: Retail sales and customer transaction data
+
 Used for: Analysing sales, customers, regions, products, payments, and order status.
+
 Preparation: The data was cleaned and organised in Excel before analysis.
+
 Tools: Microsoft Excel, PivotTables, PivotCharts, and Dashboard.
+
 Data availability: The dataset was provided by lilly store to help understand their sales performance.
