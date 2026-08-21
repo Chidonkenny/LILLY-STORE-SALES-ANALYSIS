@@ -109,6 +109,114 @@ The store generated a total revenue of ₦4,299,449.11 from 15,120 orders, with 
 - Orders Completed  3,035
 
 
+The average revenue per order is approximately ₦284.36, calculated from total revenue divided by total orders.
+
+### Regional Performance
+
+The regional analysis shows that sales are distributed across 
+
+Abuja, Anambra, Enugu, Kaduna, Kano, Lagos, Oyo, and Rivers.
+
+
+Oyo and Abuja appear to be among the stronger regions in terms of order volume/revenue while Anambra and Lagos record comparatively lower performance in the displayed regional charts. This suggests that there is an opportunity to investigate the factors driving stronger performance in the leading regions and replicate those strategies elsewhere.
+
+
+### Payment Method Performance
+
+Revenue is relatively well distributed across the five payment methods:
+
+Card: ₦907,643.56 — highest contribution.
+
+Mobile Money: ₦857,649.23.
+
+Pay on Delivery: ₦850,521.71.
+
+Cash: ₦844,610.74.
+
+Bank Transfer: ₦839,023.87.
+
+
+Card payments generated the highest revenue, while bank transfers generated the lowest among the five methods. The relatively balanced distribution indicates that customers use a variety of payment options.
+
+
+### Revenue by Age Group
+The age analysis shows that customers between 36–45 years are the most valuable revenue-generating group, contributing approximately ₦1.33 million. 
+
+The 46–55 age group follows with approximately ₦1.25 million,
+
+while the 26–35 group contributes approximately ₦952,650.
+
+
+### Revenue declines significantly among older customers:
+
+36–45: approximately ₦1.33 million
+
+46–55: approximately ₦1.25 million
+
+26–35: approximately ₦952,650
+
+56–65: approximately ₦605,888
+
+66–75: approximately ₦123,367
+
+76–85: approximately ₦41,184
+
+This suggests that marketing efforts should particularly target customers aged 26–55, especially the 36–55 segment.
+
+### Product Category Performance
+
+The product categories include Automotive, Beauty, Clothing, Electronics, Groceries, Household, Sports, and Toys.
+
+The category revenue chart shows that Clothing, Household, Sports, and Automotive are among the stronger-performing categories. 
+
+Electronics and Beauty appear relatively weaker compared with the leading categories.
+
+The category distribution is fairly balanced, with each category accounting for roughly 12–13% of product volume, indicating that the store does not depend excessively on a single product category.
+
+### Order Status and Coupon Usage
+
+The order-status analysis covers Cancelled, Completed, Pending, Returned, and Shipped orders. 
+
+The values are relatively close to one another, suggesting that orders are distributed across several stages of the fulfilment process.
+
+However, the dashboard records 2,994 returned orders and 2,976 cancelled orders, compared with only 3,035 completed orders. 
+
+This is an important area of concern because returns and cancellations can negatively affect revenue, customer satisfaction, and operational efficiency.
+
+
+Coupon usage is also almost evenly divided:
+Coupon not applied: approximately 7,557 orders
+Coupon applied: approximately 7,563 orders
+
+This indicates that coupon promotions are being used by roughly half of the orders and may be an important component of the store's sales strategy.
+
+### Gender Distribution
+
+The customer/order distribution by gender shows:
+
+Non-binary: approximately 5,150
+
+Female: approximately 5,050
+
+Male: approximately 4,900
+
+The distribution is relatively balanced, with the non-binary category having the highest count and the male category having the lowest.
+
+### Payment Channel Revenue
+
+Revenue is also divided among three payment channels:
+
+Online: approximately ₦1.50 million
+
+Phone Order: approximately ₦1.40 million
+
+In-Store: approximately ₦1.40 million
+
+Online sales generate the highest revenue, suggesting that the store's digital sales channel is particularly important. 
+
+Continued investment in the online shopping experience could therefore support further growth.
+
+
 ### Recommendations 
 
 Based on the analysis, Lilly Store should:
