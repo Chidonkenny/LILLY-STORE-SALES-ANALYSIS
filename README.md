@@ -15,3 +15,16 @@ Preparation: The data was cleaned and organised in Excel before analysis.
 Tools: Microsoft Excel, Power query, PivotTables, PivotCharts, Excel Formular, Dashboard, github.
 
 Data availability: The dataset was provided by lilly store to help understand their sales performance.
+
+### Data Cleaning Steps
+-Imported the sales dataset into Excel.
+-Inspected the available columns and records.
+-Checked for missing values.
+-Checked for duplicate records.
+-Standardized category names.
+-Checked order status values.
+-Checked payment method values.
+-Checked customer demographic fields.
+-Verified numerical fields such as sales/revenue.
+-Converted relevant columns into appropriate data types.
+-Created a cleaned dataset for analysis.
