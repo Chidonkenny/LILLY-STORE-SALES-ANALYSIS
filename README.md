@@ -95,6 +95,7 @@ The sales dataset was explored to understand its structure, identify data-qualit
 ~~~
 
 ### Findings
+---
 
 The store generated a total revenue of ₦4,299,449.11 from 15,120 orders, with an average customer rating of 4.04. Overall, the dashboard indicates a relatively strong and diversified sales performance, although the high number of returned and cancelled orders requires management attention.
 
