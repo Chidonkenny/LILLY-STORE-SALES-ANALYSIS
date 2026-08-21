@@ -5,8 +5,14 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Ckeaning Steps](#data-cleaning-steps)
+- [Data Cleaning Steps](#data-cleaning-steps)
 - [Exploratory Data analysis (EDA)](#exploratory-data-analysis-(eda))
+- [Excel Formular](#excel-formular)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+
+
+
 
 ### Project Overview
 The Lily Store sales report provides an overview of the store’s sales performance, customer behavior, order status, payment methods, product categories, regions, age groups, gender distribution, coupon usage, and payment channels.
@@ -43,13 +49,15 @@ Data availability: The dataset was provided by lilly store to help understand th
 
 The sales dataset was explored to understand its structure, identify data-quality issues, and discover patterns in revenue, orders, customers, products, regions, payment methods, and order status before developing the final dashboard.
 
-### Data Analysis 
+### Excel Formular  
 
-Total Revenue Generated 
+- Total Revenue Generated 
 
 ~~~Excel 
 =sum(sales[totalsales])
 ~~~
+
+- Total Order cancelled 
 
 ~~~Cancelled Order
 =countif(sales[product_category],sales[order_status],"cancelled")
